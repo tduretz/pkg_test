@@ -1,0 +1,4 @@
+name = "pkg_test"
+uuid = "7e68eb79-e147-4c89-949f-ab42a687bbb5"
+authors = ["tduretz <duretz@uni-frankfurt.de>"]
+version = "0.1.0"
